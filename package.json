@@ -11,8 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "clipboardy": "^1.2.3",
     "commander": "^2.18.0",
+    "imgcat": "^2.3.0",
     "signalhub": "^4.9.0",
+    "tempfile": "^2.0.0",
+    "uuid": "^3.3.2",
     "webrtc-swarm": "^2.9.0",
     "wrtc": "^0.2.0"
   },
